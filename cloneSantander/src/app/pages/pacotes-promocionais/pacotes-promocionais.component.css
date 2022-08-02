@@ -1,0 +1,48 @@
+
+.container{
+  margin-top:100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  margin: 1rem;
+  padding:2.5rem;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.285);
+}
+
+.card .btn{
+  background-color:#d00c0c;
+  position: relative;
+  border:none;
+  bottom: 380px;
+  left:60px;
+}
+
+.card.btn:hover{
+  background-color: #830707 !important;
+  }
+
+.card span{
+  color: rgb(7, 182, 7);
+  position: absolute;
+  right: 355px;
+}
+
+#backgroundRed{
+  background-color:#d00c0c ;
+  color:white;
+  margin-bottom: 50px;
+}
+
+.card.big{
+  line-height: 1.8rem;
+
+}
+
+
+
+
+
+
+

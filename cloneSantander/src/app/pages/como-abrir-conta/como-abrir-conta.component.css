@@ -1,0 +1,18 @@
+.container{
+  margin-top:100px;
+  gap: 100px;
+
+}
+.card{
+  border:none;
+}
+
+.card-body h2,h5{
+  line-height: 4.0rem;
+}
+
+.card-body a {
+  color:#d00c0c;
+}
+
+

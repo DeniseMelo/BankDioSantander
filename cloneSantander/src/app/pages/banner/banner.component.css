@@ -1,0 +1,51 @@
+
+
+img{
+  max-width: 100%;
+}
+
+.figure, img{
+  position: relative;
+}
+
+.figure{
+  max-width: 100%;
+}
+
+.container-texto:last-child{
+  position: absolute;
+  background: #fff;
+  width: 600px;
+  margin-left: 15%;
+  top: 100px;
+  padding: 55px;
+  border-radius:10px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.454);
+  font-family: 'Lucida Sans', 'Open sans';
+
+}
+
+.container-texto h2{
+  color:rgba(0, 0, 0, 0.363);
+}
+
+ .btn{
+  background-color:#d00c0c;
+  color: white;
+
+}
+
+ .btn:hover{
+background-color: #830707 !important;
+}
+
+
+input{
+  margin-right: 50px;
+  width: 50%;
+  height: 50px
+}
+
+
+
+

@@ -1,0 +1,32 @@
+
+mat-grid-list{
+  margin-bottom: 100px;
+}
+img{
+  width: 100%;
+}
+
+.text-grey{
+  padding:150px;
+  background-color:rgb(245, 239, 239);
+}
+
+.text-red{
+  width: 100%;
+  color:white;
+  padding:250px;
+  background-color:#d00c0c;
+}
+
+input{
+  background-color:#d00c0c;
+}
+
+input::placeholder {
+  color: white;
+}
+
+button{
+  background-color:white;
+  color:#d00c0c;
+}

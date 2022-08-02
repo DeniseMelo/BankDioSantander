@@ -1,0 +1,32 @@
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 100%;
+
+}
+
+.card{
+  justify-content: center;
+  width: 45%;
+  margin: auto;
+  line-height: 1.8rem;
+  border:none;
+
+
+
+}
+.card a{
+  color:#d00c0c;
+ }
+
+
+.card h6{
+    line-height: 2.0rem;
+}
+
+.card img{
+  width: 100%;
+}
