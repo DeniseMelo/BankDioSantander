@@ -17,6 +17,7 @@ import { ComoAbrirContaComponent } from './pages/como-abrir-conta/como-abrir-con
 import {MatGridListModule} from '@angular/material/grid-list';
 import {MatCardModule} from '@angular/material/card';
 import {MatInputModule} from '@angular/material/input';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -41,7 +42,8 @@ import {MatInputModule} from '@angular/material/input';
     MatIconModule,
     MatGridListModule,
     MatCardModule,
-    MatInputModule
+    MatInputModule,
+    HttpClientModule
 
 
 
